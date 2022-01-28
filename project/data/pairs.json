@@ -1,0 +1,62 @@
+{
+    "UBX_USDT_kucoin": {
+        "volume": 1500000
+    },
+    "UBX_ETH_kucoin": {
+        "volume": 300
+    },
+    "ARV_USDT_bitrue": {
+        "volume": 500000
+    },
+    "ARV_USDT_gate": {
+        "volume": 4000000
+    },
+    "ARV_USDT_mxc": {
+        "volume": 4000000
+    },
+    "ARV_USDT_bitmart": {
+        "volume": 2500000
+    },
+    "ARV_USDT_probit": {
+        "volume": 100000
+    },
+    "ARV_USDT_xt": {
+        "volume": 500000
+    },
+    "ARV_USDT_hitbtc": {
+        "volume": 100000
+    },
+    "ARV_BTC_hitbtc": {
+        "volume": 2.3
+    },
+    "KLO_USDT_gate": {
+        "volume": 300000
+    },
+    "ETHO_USDT_probit": {
+        "volume": 50000
+    },
+    "ETHO_BTC_probit": {
+        "volume": 1.4
+    },
+    "ETHO_USDT_kucoin": {
+        "volume": 50000
+    },
+    "ETHO_BTC_kucoin": {
+        "volume": 1.4
+    },
+    "OVR_USDT_gate": {
+        "volume": 1000000
+    },
+    "OVR_USDT_mxc": {
+        "volume": 1000000
+    },
+    "OVR_USDT_bitmart": {
+        "volume": 1000000
+    },
+    "WELD_USDT_bitmart": {
+        "volume": 100000
+    },
+    "KUB_USDT_mxc": {
+        "volume": 200000
+    }
+}
